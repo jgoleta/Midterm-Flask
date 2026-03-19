@@ -1,0 +1,39 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.sublime-*
+
+# Environment variables
+.env
+*.env
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+
+# Database (if you ever use local DB)
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# Coverage reports (if any)
+.coverage
+htmlcov/
