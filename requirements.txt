@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 Flask==3.1.0
 Flask-SQLAlchemy==3.1.1
 Flask-WTF==1.2.2
 psycopg2-binary==2.9.10
 python-dotenv==1.0.1
+=======
+Flask==3.1.0
+Flask-SQLAlchemy==3.1.1
+Flask-WTF==1.2.2
+psycopg2-binary==2.9.10
+python-dotenv==1.0.1
+>>>>>>> d4e61db924589eff607351afb22ce15104705d0b
 Werkzeug==3.1.3
