@@ -1,32 +1,31 @@
-# Virtual Environment
+#venv
 .venv/
 venv/
 env/
 ENV/
 
-# Python cache
+#python cache
 __pycache__/
 *.py[cod]
 *$py.class
 
-# IDE
+#ide
 .vscode/
 .idea/
 *.swp
 *.sublime-*
 
-# Environment variables
+#env
 .env
 *.env
 
-# OS generated files
 .DS_Store
 .DS_Store?
 ._*
 Thumbs.db
 ehthumbs.db
 
-# Database (if you ever use local DB)
+#Database
 *.db
 *.sqlite
 *.sqlite3
@@ -34,6 +33,5 @@ ehthumbs.db
 # Logs
 *.log
 
-# Coverage reports (if any)
 .coverage
 htmlcov/
